@@ -1,0 +1,23 @@
+ cat exampleNums.txt
+ 13
+ 154
+ 27
+ 255
+ 43
+ 2
+ 11
+
+ sort -n exampleNums.txt
+ 2
+ 11
+ 13
+ 27
+ 43
+ 154
+ 255
+
+ sort -n exampleNums.txt | tail -n 1
+ 255
+
+ sort -n exampleNums.txt | head -n 1
+ 2
