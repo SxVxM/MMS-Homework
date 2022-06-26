@@ -1,0 +1,37 @@
+			Example 1:
+		Case 1:
+	You are a guest in a dining room.
+	You go to get yourself a plate.
+	There are no plates on the table.
+	The staff has not finished washing the plates.
+	You ask someone for a plate, but there is none so you wait.
+	Your request will reach the staff and you will get a plate soon.
+
+		Case 2:
+	The staff have finished washing the plates.
+	However, there is no space to leave the cleaned plates.
+	The table is full of clean plates.
+	All people in the room have their plates.
+	The staff member has to wait before putting more plates on the table.
+	
+		Conclusion:
+	This way producers can give out as much clean plates as there are customers.
+	However, when there are no customers, they have no space for the product.
+	The other way around - if the producers do not have enough products,
+	consumers will be waiting and requesting product.
+	
+			Example 2:
+	There is a teacher and students in a room.
+	There is an exam that is happening.
+	Each student has to give their paperwork as soon as they finish.
+	All students line up in a queue and give their work to the teacher.
+	The teacher has to evaluate and give marks to each student one by one.
+	The teacher waited for the students to finish their work.
+	Now the students have to wait for the teacher to mark their work.
+	
+			Example 3:
+	Imagine a production line in a factory.
+	Each worker gets work and has to complete their work, 
+	before giving it out to the next one.
+	Each worker in the procution line is a producer for the following one and so on.
+	The following worker has to wait fot the previous one to finish work.
